@@ -1,2 +1,2 @@
-# Trabajos-Collab
-tareas Collab POO
+# Proyecto POO
+Proyecto POO
